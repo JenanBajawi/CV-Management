@@ -67,8 +67,8 @@ The system follows these steps:
 - Automatically sorts CVs into category folders  
 
 📸 **Screenshots:**  
-![Before](images/before.png)  
-![After](images/after.png)
+![Search](image/search.png)
+
 
 ---
 
@@ -77,7 +77,7 @@ The system follows these steps:
 - Uses `grep` for fast keyword matching  
 
 📸 **Screenshot:**  
-![Search](image/search.png)
+![View](image/view.png)
 
 ---
 
