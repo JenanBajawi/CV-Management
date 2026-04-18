@@ -168,10 +168,6 @@ CV-Management/
 
 ---
 
-## 📸 Notes
 
-- Add all screenshots inside the `images/` folder  
-- Use clear and high-quality images  
-- Include before/after results for better presentation  
 
 ---
