@@ -67,7 +67,7 @@ The system follows these steps:
 - Automatically sorts CVs into category folders  
 
 📸 **Screenshots:**  
-![Search](image/search.png)
+![View](image/view.png)
 
 
 ---
