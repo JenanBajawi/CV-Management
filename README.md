@@ -97,18 +97,6 @@ The system follows these steps:
 
 ---
 
-## 🧪 Testing & Results
-
-All system functionalities were successfully tested:
-
-- ✔️ File upload works correctly  
-- ✔️ Accurate CV categorization  
-- ✔️ Fast keyword search  
-- ✔️ Simple and user-friendly interface  
-
-📸 **Screenshots:**  
-![Test1](images/test1.png)  
-![Test2](images/test2.png)
 
 ---
 
