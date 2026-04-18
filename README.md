@@ -77,7 +77,7 @@ The system follows these steps:
 - Uses `grep` for fast keyword matching  
 
 📸 **Screenshot:**  
-![Before](image/before.png)
+![Search](image/search.png)
 
 ---
 
