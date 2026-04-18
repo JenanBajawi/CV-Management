@@ -48,7 +48,7 @@ The system follows these steps:
 - Account creation for new users  
 
 📸 **Screenshot:**  
-![Login](images/login.png)
+![Login](image/login.png)
 
 ---
 
@@ -58,7 +58,7 @@ The system follows these steps:
 - CV stored in the system  
 
 📸 **Screenshot:**  
-![Upload](images/upload.png)
+![Upload](image/upload.png)
 
 ---
 
@@ -77,7 +77,7 @@ The system follows these steps:
 - Uses `grep` for fast keyword matching  
 
 📸 **Screenshot:**  
-![Search](images/search.png)
+![Search](image/search.png)
 
 ---
 
@@ -85,7 +85,7 @@ The system follows these steps:
 - Displays number of CVs in each category  
 
 📸 **Screenshot:**  
-![Count](images/count.png)
+![Count](image/count.png)
 
 ---
 
@@ -93,7 +93,7 @@ The system follows these steps:
 - Displays content of selected CV  
 
 📸 **Screenshot:**  
-![View](images/view.png)
+![View](image/view.png)
 
 ---
 
