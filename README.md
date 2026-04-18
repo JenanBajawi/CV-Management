@@ -85,7 +85,7 @@ The system follows these steps:
 - Displays number of CVs in each category  
 
 📸 **Screenshot:**  
-![Count](image/count.png)
+![Before](image/before.png)
 
 ---
 
