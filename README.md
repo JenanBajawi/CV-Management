@@ -93,7 +93,7 @@ The system follows these steps:
 - Displays content of selected CV  
 
 📸 **Screenshot:**  
-![View](image/view.png)
+![Count](image/count.png)
 
 ---
 
