@@ -150,7 +150,6 @@ chmod +x script.sh
 - Linda Hussain Alzahrani  
 - Raghad Ahmad Alzahrani  
 - Salam Ali Alghamdi  
-- Khadija Ali Mirza  
 
 ---
 
